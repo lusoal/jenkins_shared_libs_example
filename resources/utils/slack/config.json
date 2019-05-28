@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "jenkins-credential-id": ""
+    },
+    "project": {
+        "gb": {
+            "success": {
+                "color": "#00ff00",
+                "icon": ":success:"
+            },
+            "failure": {
+                "color": "#ff0000",
+                "icon": ":failed:"
+            },
+            "init": {
+                "color": "#000cff",
+                "icon": ":github:"
+            }
+        }
+    }
+}
